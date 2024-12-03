@@ -1,0 +1,7 @@
+C:\Users\yutob\Documents\Cursos Udemy\C#\ダイス\ダイス\obj\Debug\ダイス.csproj.AssemblyReference.cache
+C:\Users\yutob\Documents\Cursos Udemy\C#\ダイス\ダイス\obj\Debug\ダイス.csproj.CoreCompileInputs.cache
+C:\Users\yutob\Documents\Cursos Udemy\C#\ダイス\ダイス\bin\Debug\ダイス.exe.config
+C:\Users\yutob\Documents\Cursos Udemy\C#\ダイス\ダイス\bin\Debug\ダイス.exe
+C:\Users\yutob\Documents\Cursos Udemy\C#\ダイス\ダイス\bin\Debug\ダイス.pdb
+C:\Users\yutob\Documents\Cursos Udemy\C#\ダイス\ダイス\obj\Debug\ダイス.exe
+C:\Users\yutob\Documents\Cursos Udemy\C#\ダイス\ダイス\obj\Debug\ダイス.pdb
